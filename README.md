@@ -9,9 +9,9 @@
 
 | 현황 | 제목 | 난이도 | 정답률 | 최종제출 |
 | :--------: | -------- | :--------: | :--------: | :--------: |
-| ✅ | [짝수와 홀수]() | Lv.01 | 87% | 23.03.14(화) |
-| ✅ | [평균 구하기]() | Lv.01 | 87% | 23.03.14(화) |
-| ✅ | [약수의 합]() | Lv.01 | 87% | 23.03.14(화) |
+| ✅ | [짝수와 홀수](https://github.com/Rhode-park/swift-coding-test-study/blob/Rhode/week01/23.03.14(Tues)/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98.playground/Contents.swift) | Lv.01 | 87% | 23.03.14(화) |
+| ✅ | [평균 구하기](https://github.com/Rhode-park/swift-coding-test-study/blob/Rhode/week01/23.03.14(Tues)/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.playground/Contents.swift) | Lv.01 | 87% | 23.03.14(화) |
+| ✅ | [약수의 합](https://github.com/Rhode-park/swift-coding-test-study/blob/Rhode/week01/23.03.14(Tues)/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9.playground/Contents.swift) | Lv.01 | 87% | 23.03.14(화) |
 | 진행 중 | 자릿수 더하기 | Lv.01 | 87% |  |
 |  | x만큼 간격이 있는 n개의 숫자 | Lv.01 | 86% |  |
 |  | 자연수 뒤집어 배열로 만들기 | Lv.01 | 86% |  |
@@ -23,3 +23,6 @@
 |  | 하샤드 수 | Lv.01 | 87% |  |
 
 ## week03
+
+
+
