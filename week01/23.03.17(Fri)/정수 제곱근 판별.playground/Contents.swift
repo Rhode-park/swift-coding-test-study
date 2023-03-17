@@ -1,4 +1,4 @@
-//시간 초과 풀이
+//틀린 풀이
 //func solution(_ n:Int64) -> Int64 {
 //    let halfNumber = Int64(n) / Int64(2)
 //    var result: Int64 = -1
