@@ -23,9 +23,9 @@
 | ✅ | [하샤드 수](https://github.com/Rhode-park/swift-coding-test-study/blob/Rhode/week02/23.03.21(Tue)/%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98.playground/Contents.swift) | Lv.01 | 86% | 23.03.21(화) |
 | ✅ | [두 정수 사이의 합](https://github.com/Rhode-park/swift-coding-test-study/blob/Rhode/week02/23.03.21(Tue)/%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.playground/Contents.swift) | Lv.01 | 85% | 23.03.21(화) |
 | ✅ | [콜라츠 추측](https://github.com/Rhode-park/swift-coding-test-study/blob/Rhode/week02/23.03.21(Tue)/%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1.playground/Contents.swift) | Lv.01 | 85% | 23.03.21(화) |
-|  | 서울에서 김서방 찾기 | Lv.01 | 84% |  |
-|  | 나누어 떨어지는 숫자 배열 | Lv.01 | 84% |  |
-|  | 핸드폰 번호 가리기 | Lv.01 | 84% |  |
+| ✅ | [서울에서 김서방 찾기](https://github.com/Rhode-park/swift-coding-test-study/blob/Rhode/week02/23.03.22(Wed)/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.playground/Contents.swift) | Lv.01 | 84% | 23.03.22(수) |
+| ✅ | [나누어 떨어지는 숫자 배열](https://github.com/Rhode-park/swift-coding-test-study/blob/Rhode/week02/23.03.22(Wed)/%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%B0%B0%EC%97%B4.playground/Contents.swift) | Lv.01 | 84% | 23.03.22(수) |
+| ✅ | [핸드폰 번호 가리기](https://github.com/Rhode-park/swift-coding-test-study/blob/Rhode/week02/23.03.22(Wed)/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.playground/Contents.swift) | Lv.01 | 84% | 23.03.22(수) |
 |  | 음양 더하기 | Lv.01 | 83% |  |
 |  | 제일 작은 수 제거하기 | Lv.01 | 83% |  |
 |  | 없는 숫자 더하기 | Lv.01 | 83% |  |
