@@ -26,10 +26,10 @@
 | ✅ | [서울에서 김서방 찾기](https://github.com/Rhode-park/swift-coding-test-study/blob/Rhode/week02/23.03.22(Wed)/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.playground/Contents.swift) | Lv.01 | 84% | 23.03.22(수) |
 | ✅ | [나누어 떨어지는 숫자 배열](https://github.com/Rhode-park/swift-coding-test-study/blob/Rhode/week02/23.03.22(Wed)/%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%B0%B0%EC%97%B4.playground/Contents.swift) | Lv.01 | 84% | 23.03.22(수) |
 | ✅ | [핸드폰 번호 가리기](https://github.com/Rhode-park/swift-coding-test-study/blob/Rhode/week02/23.03.22(Wed)/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.playground/Contents.swift) | Lv.01 | 84% | 23.03.22(수) |
-|  | 음양 더하기 | Lv.01 | 83% |  |
-|  | 제일 작은 수 제거하기 | Lv.01 | 83% |  |
-|  | 없는 숫자 더하기 | Lv.01 | 83% |  |
-|  | 가운데 글자 가져오기 | Lv.01 | 82% |  |
+| ✅ | [음양 더하기](https://github.com/Rhode-park/swift-coding-test-study/tree/Rhode/week02/23.03.23(Thu)/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.playground) | Lv.01 | 83% | 23.03.23(목) |
+| ✅ | [제일 작은 수 제거하기](https://github.com/Rhode-park/swift-coding-test-study/tree/Rhode/week02/23.03.23(Thu)/%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.playground) | Lv.01 | 83% | 23.03.23(목) |
+| ✅ | [없는 숫자 더하기](https://github.com/Rhode-park/swift-coding-test-study/blob/Rhode/week02/23.03.23(Thu)/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0.playground/Contents.swift) | Lv.01 | 83% | 23.03.23(목) |
+| 풀이중 | 가운데 글자 가져오기 | Lv.01 | 82% |  |
 |  | 수박수박수박수박수박수? | Lv.01 | 82% |  |
 |  | 내적 | Lv.01 | 82% |  |
 |  | 문자열 내림차순으로 배치하기 | Lv.01 | 80% |  |
