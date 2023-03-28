@@ -31,10 +31,17 @@
 | ✅ | [없는 숫자 더하기](https://github.com/Rhode-park/swift-coding-test-study/blob/Rhode/week02/23.03.23(Thu)/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0.playground/Contents.swift) | Lv.01 | 83% | 23.03.23(목) |
 | ✅ | [가운데 글자 가져오기](https://github.com/Rhode-park/swift-coding-test-study/blob/Rhode/week02/23.03.24(Fri)/%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.playground/Contents.swift) | Lv.01 | 82% | 23.03.24(금) |
 | ✅ | [수박수박수박수박수박수?](https://github.com/Rhode-park/swift-coding-test-study/blob/Rhode/week02/23.03.24(Fri)/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.playground/Contents.swift) | Lv.01 | 82% | 23.03.24(금) |
-|  | 내적 | Lv.01 | 82% |  |
-|  | 문자열 내림차순으로 배치하기 | Lv.01 | 80% |  |
-|  | 약수의 개수와 덧셈 | Lv.01 | 80% |  |
-|  | 문자열 다루기 기본 | Lv.01 | 79% |  |
+| ✅ | [내적](https://github.com/Rhode-park/swift-coding-test-study/blob/Rhode/week03/23.03.28(Tue)/%EB%82%B4%EC%A0%81.playground/Contents.swift) | Lv.01 | 82% | 23.03.28(화) |
+| ✅ | [문자열 내림차순으로 배치하기](https://github.com/Rhode-park/swift-coding-test-study/blob/Rhode/week03/23.03.28(Tue)/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.playground/Contents.swift) | Lv.01 | 80% | 23.03.28(화) |
+| ✅ | [약수의 개수와 덧셈](https://github.com/Rhode-park/swift-coding-test-study/blob/Rhode/week03/23.03.28(Tue)/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88.playground/Contents.swift) | Lv.01 | 80% | 23.03.28(화) |
+| ✅ | [문자열 다루기 기본](https://github.com/Rhode-park/swift-coding-test-study/blob/Rhode/week03/23.03.28(Tue)/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8.playground/Contents.swift) | Lv.01 | 79% | 23.03.28(화) |
+| ✅ | [부족한 금액 계산하기](https://github.com/Rhode-park/swift-coding-test-study/tree/Rhode/week03/23.03.28(Tue)/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.playground) | Lv.01 | 79% | 23.03.28(화) |
+|  | 행렬의 덧셈 | Lv.01 | 78% |  |
+|  | 직사각형 별찍기 | Lv.01 | 77% |  |
+|  | 최대공약수와 최소공배수 | Lv.01 | 76% |  |
+|  | 3진법 뒤집기| Lv.01 | 74% |  |
+|  | 이상한 문자 만들기 | Lv.01 | 73% |  |
+|  | 예산 | Lv.01 | 73% |  |
 
 ## week07
 
