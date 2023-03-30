@@ -36,17 +36,12 @@
 | ✅ | [약수의 개수와 덧셈](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week03/23.03.28(Tue)/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88.playground/Contents.swift) | Lv.01 | 80% | 23.03.28(화) |
 | ✅ | [문자열 다루기 기본](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week03/23.03.28(Tue)/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8.playground/Contents.swift) | Lv.01 | 79% | 23.03.28(화) |
 | ✅ | [부족한 금액 계산하기](https://github.com/Rhode-park/swift-coding-test-study/tree/main/week03/23.03.28(Tue)/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.playground) | Lv.01 | 79% | 23.03.28(화) |
-|  | 행렬의 덧셈 | Lv.01 | 78% |  |
-|  | 직사각형 별찍기 | Lv.01 | 77% |  |
-|  | 최대공약수와 최소공배수 | Lv.01 | 76% |  |
-|  | 3진법 뒤집기| Lv.01 | 74% |  |
+| ✅ | [행렬의 덧셈](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week03/23.03.30(Thu)/%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.playground/Contents.swift) | Lv.01 | 78% | 23.03.30(목) |
+| ✅ | [직사각형 별찍기](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week03/23.03.30(Thu)/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.playground/Contents.swift) | Lv.01 | 77% | 23.03.30(목) |
+| ✅ | [최대공약수와 최소공배수](https://github.com/Rhode-park/swift-coding-test-study/tree/main/week03/23.03.30(Thu)/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.playground) | Lv.01 | 76% | 23.03.30(목) |
+| ✅ | [3진법 뒤집기](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week03/23.03.30(Thu)/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.playground/Contents.swift)| Lv.01 | 74% | 23.03.30(목) |
 |  | 이상한 문자 만들기 | Lv.01 | 73% |  |
 |  | 예산 | Lv.01 | 73% |  |
 
 
 ## week07
-
-
-
-
-
