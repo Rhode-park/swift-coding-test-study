@@ -40,8 +40,26 @@
 | ✅ | [직사각형 별찍기](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week03/23.03.30(Thu)/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.playground/Contents.swift) | Lv.01 | 77% | 23.03.30(목) |
 | ✅ | [최대공약수와 최소공배수](https://github.com/Rhode-park/swift-coding-test-study/tree/main/week03/23.03.30(Thu)/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.playground) | Lv.01 | 76% | 23.03.30(목) |
 | ✅ | [3진법 뒤집기](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week03/23.03.30(Thu)/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.playground/Contents.swift)| Lv.01 | 74% | 23.03.30(목) |
-|  | 이상한 문자 만들기 | Lv.01 | 73% |  |
-|  | 예산 | Lv.01 | 73% |  |
+| 풀이중 | 이상한 문자 만들기 | Lv.01 | 73% | 풀이중 |
+| ✅ | [예산](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week04/23.04.03(Mon)/%EC%98%88%EC%82%B0.playground/Contents.swift) | Lv.01 | 73% | 23.04.03(월) |
+| 풀이중 | 시저 암호 | Lv.01 | 71% | 풀이중 |
+|  | 삼총사 | Lv.01 | 71% |  |
+|  | 최소직사각형 | Lv.01 | 70% |  |
+|  | 문자열 내 마음대로 정렬하기 | Lv.01 | 68% |  |
+|  | K번째수 | Lv.01 | 68% |  |
+|  | 두 개 뽑아서 더하기 | Lv.01 | 67% |  |
+|  | 크기가 작은 부분 문자열 | Lv.01 | 67% |  |
+|  | 콜라 문제 | Lv.01 | 64% |  |
+|  | 푸드 파이트 대회 | Lv.01 | 64% |  |
+|  | 2016년 | Lv.01 | 63% |  |
+|  | 가장 가까운 같은 글자 | Lv.01 | 63% |  |
+|  | 소수 찾기 | Lv.01 | 60% |  |
+|  | 모의고사 | Lv.01 | 60% |  |
+|  | 소수 만들기 | Lv.01 | 60% |  |
+|  | 과일 장수 | Lv.01 | 59% |  |
+|  | 명예의 전당(1) | Lv.01 | 59% |  |
+|  | 로또의 최고 순위와 최저 순위 | Lv.01 | 56% |  |
+|  | 기사단원의 무기 | Lv.01 | 54% |  |
 
 
 ## week07
