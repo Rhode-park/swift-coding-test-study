@@ -1,26 +1,25 @@
 func solution(_ s:String) -> String {
-    let words = s.split(separator: " ").map { String($0) }
+    var words = [Character]()
     var result = String()
+    var count = Int()
     
-    for word in words {
-        var count = Int()
-        
-        for character in word {
+    for word in s {
+        words.append(word)
+    }
+    
+    for character in words {
+        if character.isLetter {
             if count % 2 == 0 {
                 result += character.uppercased()
             } else {
                 result += character.lowercased()
             }
             count += 1
+        } else {
+            result += String(character)
+            count = 0
         }
-        
-        result += " "
     }
-    
-    result.removeLast()
     
     return result
 }
-
-
-print(solution("why so "))
