@@ -43,8 +43,8 @@
 | ✅ | [이상한 문자 만들기](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week04/23.04.04(Tue)/%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.playground/Contents.swift) | Lv.01 | 73% | 23.04.04(화) |
 | ✅ | [예산](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week04/23.04.03(Mon)/%EC%98%88%EC%82%B0.playground/Contents.swift) | Lv.01 | 73% | 23.04.03(월) |
 | ✅ | [시저 암호](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week04/23.04.04(Tue)/%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8.playground/Contents.swift) | Lv.01 | 71% | 23.04.04(화) |
-|  | 삼총사 | Lv.01 | 71% |  |
-|  | 최소직사각형 | Lv.01 | 70% |  |
+| ✅ | [삼총사](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week04/23.04.05(Wed)/%EC%82%BC%EC%B4%9D%EC%82%AC.playground/Contents.swift) | Lv.01 | 71% | 23.04.05(수) |
+| ✅ | [최소직사각형](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week04/23.04.05(Wed)/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.playground/Contents.swift) | Lv.01 | 70% | 23.04.05(수) |
 |  | 문자열 내 마음대로 정렬하기 | Lv.01 | 68% |  |
 |  | K번째수 | Lv.01 | 68% |  |
 |  | 두 개 뽑아서 더하기 | Lv.01 | 67% |  |
