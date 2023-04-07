@@ -45,11 +45,11 @@
 | ✅ | [시저 암호](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week04/23.04.04(Tue)/%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8.playground/Contents.swift) | Lv.01 | 71% | 23.04.04(화) |
 | ✅ | [삼총사](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week04/23.04.05(Wed)/%EC%82%BC%EC%B4%9D%EC%82%AC.playground/Contents.swift) | Lv.01 | 71% | 23.04.05(수) |
 | ✅ | [최소직사각형](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week04/23.04.05(Wed)/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.playground/Contents.swift) | Lv.01 | 70% | 23.04.05(수) |
-|  | 문자열 내 마음대로 정렬하기 | Lv.01 | 68% |  |
-|  | K번째수 | Lv.01 | 68% |  |
-|  | 두 개 뽑아서 더하기 | Lv.01 | 67% |  |
-|  | 크기가 작은 부분 문자열 | Lv.01 | 67% |  |
-|  | 콜라 문제 | Lv.01 | 64% |  |
+| ✅ | 문자열 내 마음대로 정렬하기 | Lv.01 | 68% | 23.04.06(목) |
+| 풀이중 | K번째수 | Lv.01 | 68% | 풀이중 |
+| ✅ | 두 개 뽑아서 더하기 | Lv.01 | 67% | 23.04.07(금) |
+| ✅ | 크기가 작은 부분 문자열 | Lv.01 | 67% | 23.04.07(금) |
+| 풀이중 | 콜라 문제 | Lv.01 | 64% | 풀이중 |
 |  | 푸드 파이트 대회 | Lv.01 | 64% |  |
 |  | 2016년 | Lv.01 | 63% |  |
 |  | 가장 가까운 같은 글자 | Lv.01 | 63% |  |
