@@ -49,10 +49,10 @@
 | 풀이중 | K번째수 | Lv.01 | 68% | 풀이중 |
 | ✅ | [두 개 뽑아서 더하기](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week04/23.04.07(Fri)/%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.playground/Contents.swift) | Lv.01 | 67% | 23.04.07(금) |
 | ✅ | [크기가 작은 부분 문자열](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week04/23.04.07(Fri)/%ED%81%AC%EA%B8%B0%EA%B0%80%20%EC%9E%91%EC%9D%80%20%EB%B6%80%EB%B6%84%EB%AC%B8%EC%9E%90%EC%97%B4.playground/Contents.swift) | Lv.01 | 67% | 23.04.07(금) |
-| 풀이중 | 콜라 문제 | Lv.01 | 64% | 풀이중 |
-|  | 푸드 파이트 대회 | Lv.01 | 64% |  |
-|  | 2016년 | Lv.01 | 63% |  |
-|  | 가장 가까운 같은 글자 | Lv.01 | 63% |  |
+| ✅ | [콜라 문제](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week05/23.04.11(Tue)/%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C.playground/Contents.swift) | Lv.01 | 64% | 23.04.11(화) |
+| ✅ | [푸드 파이트 대회](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week05/23.04.11(Tue)/%ED%91%B8%EB%93%9C%20%ED%8C%8C%EC%9D%B4%ED%8A%B8%20%EB%8C%80%ED%9A%8C.playground/Contents.swift) | Lv.01 | 64% | 23.04.11(화) |
+| ✅ | [2016년](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week05/23.04.11(Tue)/2016%EB%85%84.playground/Contents.swift) | Lv.01 | 63% | 23.04.11(화) |
+| ✅ | [가장 가까운 같은 글자](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week05/23.04.11(Tue)/%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B0%99%EC%9D%80%20%EA%B8%80%EC%9E%90%20.playground/Contents.swift) | Lv.01 | 63% | 23.04.11(화) |
 |  | 소수 찾기 | Lv.01 | 60% |  |
 |  | 모의고사 | Lv.01 | 60% |  |
 |  | 소수 만들기 | Lv.01 | 60% |  |
