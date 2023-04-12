@@ -46,7 +46,7 @@
 | ✅ | [삼총사](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week04/23.04.05(Wed)/%EC%82%BC%EC%B4%9D%EC%82%AC.playground/Contents.swift) | Lv.01 | 71% | 23.04.05(수) |
 | ✅ | [최소직사각형](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week04/23.04.05(Wed)/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.playground/Contents.swift) | Lv.01 | 70% | 23.04.05(수) |
 | ✅ | [문자열 내 마음대로 정렬하기](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week04/23.04.06(Thu)/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.playground/Contents.swift) | Lv.01 | 68% | 23.04.06(목) |
-| 풀이중 | K번째수 | Lv.01 | 68% | 풀이중 |
+| ✅ | [K번째수](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week05/23.04.12(Wed)/K%EB%B2%88%EC%A7%B8%EC%88%98.playground/Contents.swift) | Lv.01 | 68% | 23.04.12(수) |
 | ✅ | [두 개 뽑아서 더하기](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week04/23.04.07(Fri)/%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.playground/Contents.swift) | Lv.01 | 67% | 23.04.07(금) |
 | ✅ | [크기가 작은 부분 문자열](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week04/23.04.07(Fri)/%ED%81%AC%EA%B8%B0%EA%B0%80%20%EC%9E%91%EC%9D%80%20%EB%B6%80%EB%B6%84%EB%AC%B8%EC%9E%90%EC%97%B4.playground/Contents.swift) | Lv.01 | 67% | 23.04.07(금) |
 | ✅ | [콜라 문제](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week05/23.04.11(Tue)/%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C.playground/Contents.swift) | Lv.01 | 64% | 23.04.11(화) |
