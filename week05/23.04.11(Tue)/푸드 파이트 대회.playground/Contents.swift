@@ -20,5 +20,3 @@ func solution(_ food:[Int]) -> String {
     
     return totalSide
 }
-
-print(solution([1, 7, 1, 2]))

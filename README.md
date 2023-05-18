@@ -53,13 +53,37 @@
 | ✅ | [푸드 파이트 대회](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week05/23.04.11(Tue)/%ED%91%B8%EB%93%9C%20%ED%8C%8C%EC%9D%B4%ED%8A%B8%20%EB%8C%80%ED%9A%8C.playground/Contents.swift) | Lv.01 | 64% | 23.04.11(화) |
 | ✅ | [2016년](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week05/23.04.11(Tue)/2016%EB%85%84.playground/Contents.swift) | Lv.01 | 63% | 23.04.11(화) |
 | ✅ | [가장 가까운 같은 글자](https://github.com/Rhode-park/swift-coding-test-study/blob/main/week05/23.04.11(Tue)/%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B0%99%EC%9D%80%20%EA%B8%80%EC%9E%90%20.playground/Contents.swift) | Lv.01 | 63% | 23.04.11(화) |
-|  | 소수 찾기 | Lv.01 | 60% |  |
-|  | 모의고사 | Lv.01 | 60% |  |
-|  | 소수 만들기 | Lv.01 | 60% |  |
+
+
+## week08 ~ 
+
+화요일마다 [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) 중 두 문제의 풀이를 공유합니다. 
+
+ - 기간: 23.04.24(월) ~ 23.06.16(금)
+ - 시간: 화 오전 8시 30분 ~ 오전 09시 30분
+
+| 날짜 | 제목 | 문제 번호 | 난이도 | 최종제출 |
+| :--------: | -------- | :--------: | :--------: | :--------: |
+| 23.05.02(화) | 바이러스 | [2606](https://www.acmicpc.net/problem/2606) | silver3 | X |
+| 23.05.02(화) | DFS와 BFS | [1260](https://www.acmicpc.net/problem/1260) | silver2 | X |
+| 23.05.08(화) | 트리의 부모 찾기 | [111725](https://www.acmicpc.net/problem/11725) | silver2 | X |
+| 23.05.08(화) | 효율적인 해킹 | [1325](https://www.acmicpc.net/problem/1325) | silver2 | X |
+| 23.05.15(화) | 미로탐색 | [2178](https://www.acmicpc.net/problem/2178) | silver1 |  |
+
+<br/>
+
+자율적으로 Programmers school의 [연습문제](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&levels=1&languages=swift) 중 `Lv.1` `Swift`에 해당하는 문제를 `정답률` 순으로 풉니다.
+
+ - 기간: 23.04.24(월) ~ 23.06.16(금)
+ - 시간: 월수목금 오전 8시 30분 ~ 오전 09시 30분
+
+| 현황 | 제목 | 난이도 | 정답률 | 최종제출 |
+| :--------: | -------- | :--------: | :--------: | :--------: |
+| 풀이중 | 추억점수 | Lv.01 | 63% | 풀이중 |
+| ✅ | 모의고사 | Lv.01 | 61% | 23.05.08(월) |
+|  | 소수 찾기 | Lv.01 | 61% |  |
+|  | 소수 만들기 | Lv.01 | 61% |  |
 |  | 과일 장수 | Lv.01 | 59% |  |
 |  | 명예의 전당(1) | Lv.01 | 59% |  |
 |  | 로또의 최고 순위와 최저 순위 | Lv.01 | 56% |  |
 |  | 기사단원의 무기 | Lv.01 | 54% |  |
-
-
-## week07
